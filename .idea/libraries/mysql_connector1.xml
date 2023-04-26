@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BankManagementSystem/BankManagementSystem-master/finalBank/src/Bank1/mysql-connector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
