@@ -57,7 +57,7 @@ public class CustomerDetails extends javax.swing.JFrame {
         jPanel1.setBackground(new java.awt.Color(248, 148, 6));
 
         jLabel2.setFont(new java.awt.Font("Ubuntu Medium", 1, 24)); // NOI18N
-        jLabel2.setForeground(new java.awt.Color(254, 254, 254));
+        jLabel2.setForeground(new java.awt.Color(0, 0, 0));
         jLabel2.setText("PERSONAL DETAILS");
 
         jLabelClose.setFont(new java.awt.Font("Ubuntu Medium", 1, 24)); // NOI18N
@@ -68,8 +68,7 @@ public class CustomerDetails extends javax.swing.JFrame {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 jLabelCloseMouseClicked(evt);
             }
-        }
-        );
+        });
 
         jLabelMin.setFont(new java.awt.Font("Ubuntu Medium", 1, 24)); // NOI18N
         jLabelMin.setForeground(new java.awt.Color(255, 250, 250));
@@ -149,7 +148,7 @@ public class CustomerDetails extends javax.swing.JFrame {
 
         jButton1.setBackground(new java.awt.Color(34, 167, 240));
         jButton1.setFont(new java.awt.Font("Ubuntu", 0, 14)); // NOI18N
-        jButton1.setForeground(new java.awt.Color(254, 254, 254));
+        jButton1.setForeground(new java.awt.Color(0, 0, 0));
         jButton1.setText("BACK");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
